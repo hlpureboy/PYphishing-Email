@@ -1,0 +1,11 @@
+{
+  "server":"smtp.exmail.qq.com",
+  "server_port":465,
+  "user":"admin@admin.com",
+  "_pass":"admin",
+  "path":"./index.html",
+  "sub":"寒假，我与二哈的日常",
+  "target":"test@qq.com,admin@139.com",
+  "url":"http://www.baidu.com",
+  "fromaddress":"Admin Warnning<admin@admin.com>"
+}
