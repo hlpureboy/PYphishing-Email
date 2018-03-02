@@ -57,5 +57,5 @@
 + 命令行形式可能会出现编码问题，请自行修改第76行
 + 命令参数不完整时，将会从server.json文件中补充完整
 ### 使用实例
-+  ![server.json](pic\server.json.jpg)
-+  ![command](pic\command.png)
++  ![server.json](server.json.jpg)
++  ![command](command.png)
